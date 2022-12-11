@@ -1,0 +1,13 @@
+.navbar {
+    background-color: var(--soft-green);
+    padding: 30px;
+    display: flex;
+    align-items: center;
+    gap: 25px;
+    height: 30px;
+}
+
+.nav-brand {
+    padding-left: 20px;
+    color: white;
+}

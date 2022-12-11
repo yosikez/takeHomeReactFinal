@@ -1,0 +1,17 @@
+.outer-table {
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    margin-inline: 50px;
+}
+
+.form-table {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: white;
+    padding: 10px;
+    border-radius: 10px;
+}
+
+    

@@ -1,0 +1,7 @@
+.master-button {
+    margin-left: 50px;
+    margin-block: 10px;
+    border-radius: 10px;
+    background-color: var(--soft-yer);
+    width: max-content;
+}
